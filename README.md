@@ -25,6 +25,7 @@ Join the Polymath Community on [Discord](https://discord.gg/gaZMZKzScj)
 You need to have the following software installed on your system:
 
 - ``ffmpeg``
+- ``rubberband``
 
 ## Installation
 
@@ -132,7 +133,7 @@ The Demucs Neural Net has settings that can be adjusted in the python file
 ```bash
 - bass
 - drum
-- guitare
+- guitar
 - other
 - piano
 - vocals
